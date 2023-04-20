@@ -1,2 +1,2 @@
 # flexbox-pricing-table-project
-Simple Flexbox pricing table project
+Simple pricing table built on CSS.
